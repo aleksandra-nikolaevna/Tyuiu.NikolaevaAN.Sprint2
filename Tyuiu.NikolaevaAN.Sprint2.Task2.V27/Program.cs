@@ -15,7 +15,7 @@ namespace Tyuiu.NikolaevaAN.Sprint2.Task2.V27
             Console.Title = "Спринт #2 | Выполнила: Николаева А. Н. | ПКТб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Оператор if – полная и короткая форма записи                      *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #27                                                             *");
             Console.WriteLine("* Выполнила: Николаева Александра Николаевна | ПКТб-23-2                  *");

@@ -42,7 +42,7 @@ namespace Tyuiu.NikolaevaAN.Sprint2.Task5.V13
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Дата следующего дня: " + ds.FindDateOfNextDay(g, m, n));
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }

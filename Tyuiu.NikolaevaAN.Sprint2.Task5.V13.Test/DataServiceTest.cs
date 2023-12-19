@@ -11,9 +11,9 @@ namespace Tyuiu.NikolaevaAN.Sprint2.Task5.V13.Test
         public void ValidFindDateOfNextDay()
         {
             DataService ds = new DataService();
-            int g = 2000, m = 12, n = 31;
+            int g = 2000, m = 03, n = 29;
             string res = ds.FindDateOfNextDay(g, m, n);
-            string wait = "1.1.2001";
+            string wait = "30.03.2000";
             Assert.AreEqual(wait, res);
         }
     }

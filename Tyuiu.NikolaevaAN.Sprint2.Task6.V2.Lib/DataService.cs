@@ -35,7 +35,7 @@ namespace Tyuiu.NikolaevaAN.Sprint2.Task6.V2.Lib
                     res = "Осень";
                     break;
                 default:
-                    res = "Неправильный ввод номера месяца";
+                    res = "Месяц должен быть от 1 до 12";
                     break;
             }
             return res;

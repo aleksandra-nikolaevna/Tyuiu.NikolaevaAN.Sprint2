@@ -21,8 +21,8 @@ namespace Tyuiu.NikolaevaAN.Sprint2.Task6.V2
             Console.WriteLine("* Выполнила: Николаева Александра Николаевна | ПКТб-23-2                  *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая использует оператор switch, вычисляет       *");
-            Console.WriteLine("* требуемое значение и возвращает результат.                              *");
+            Console.WriteLine("* По заданному номеру месяца m определить время года.                     *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
